@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "SPORTSXTRAVEL TIME",
+  title: "SPORTSXTRAVEL TRAVEL",
   description: "En Sportsxplore redefinimos los viajes al combinar la emoción y la pasión de tus equipos favoritos con la aventura de experiencias personalizadas.",
 };
 
